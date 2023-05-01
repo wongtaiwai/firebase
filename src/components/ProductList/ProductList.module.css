@@ -1,0 +1,39 @@
+.image {
+    position: relative;
+    ;
+}
+
+.image_layout {
+    font-size: 1rem;
+    width: 80%;
+    min-width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.image_link {
+    display: block;
+}
+
+.image_style {
+    width: 100%;
+    display: block;
+}
+
+.image_title {
+    color: #fff;
+    right: 2rem;
+    bottom: 0;
+    font-weight: 800;
+    text-transform: uppercase;
+    position: absolute;
+}
+
+
+.text_center {
+
+    margin-top: 30%;
+    margin-bottom: 2%;
+    font-size: xx-large;
+
+}
